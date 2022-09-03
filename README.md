@@ -6,10 +6,8 @@
 
 3. Vanessa Martínez Romero: @yosassenav
 
-<<<<<<< HEAD
 4. Jessica Hernandez Contreras
 
-5. Abraham Figueroa Jiménez
-=======
-4. Abraham Figueroa Jiménez
->>>>>>> abraham
+5. Esteban Medina Macias
+
+6. Abraham Figueroa :)
