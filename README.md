@@ -1,2 +1,3 @@
 # pfinal-g22
-Victor Raul Villafranco Aguirre - Sion127
+1. DIEGO ALEJANDRO MARTINEZ CASTILLO
+2. Victor Villafranco Aguirre-Sion127
