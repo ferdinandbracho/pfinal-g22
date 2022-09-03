@@ -4,4 +4,4 @@
 
 2. Susana Enciso :)
 
-3. 2. Vanessa Martínez Romero: @yosassenav
+3. Vanessa Martínez Romero: @yosassenav
